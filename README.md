@@ -12,7 +12,7 @@ A Datacenter Infrastructure Perspective</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/13-Datascience-Papers/blob/master/d(3).pdf" style="text-decoration:none;">How to Read a Paper</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/13-Datascience-Papers/blob/master/d(4).pdf" style="text-decoration:none;">Twitter turing test: Identifying social machines</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/13-Datascience-Papers/blob/master/d(5).pdf" style="text-decoration:none;">DeepType: Multilingual Entity Linking by Neural Type System Evolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/13-Datascience-Papers/blob/master/d(6).pdf" style="text-decoration:none;">Pharo By Example 5</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/13-Datascience-Papers/blob/master/d(6).pdf" style="text-decoration:none;">Long Short-term Memory</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/13-Datascience-Papers/blob/master/d(7).pdf" style="text-decoration:none;">Introduction to Autonomous Robots</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/13-Datascience-Papers/blob/master/d(8).pdf" style="text-decoration:none;"> AUTOMATE THE BORING STUFF WITH PYTHON </a></li>
